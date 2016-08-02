@@ -1,0 +1,1 @@
+It is normally used with piping operations. Now we'll use the piping and chaining to first compress a file and then decompress the same.

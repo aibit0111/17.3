@@ -1,0 +1,1 @@
+Chanining is a mechanism to connect output of one stream to another stream and create a chain of multiple stream operations.
